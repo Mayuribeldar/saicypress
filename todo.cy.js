@@ -1,7 +1,7 @@
 describe('mayuri 1st test suite',function()
 {
 it("mayuri test case no 01 ",function(){
-cy. visit("https://shopnewage.com")
+cy. visit("https://newageproducts.com")
 
 })
 
